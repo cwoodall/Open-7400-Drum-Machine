@@ -1,2 +1,5 @@
 Pictures/*
 Sources/*
+.dropbox*
+.gitignore
+\#*

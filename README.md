@@ -22,4 +22,4 @@ Eric Hazen
 
 ## License
 
-Some Open Hardware License... Be kind of fancy here, just because I can.
+MIT License
