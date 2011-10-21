@@ -3,6 +3,8 @@
 Christopher Woodall <chris.j.woodall at gmail.com>
 MIT License
 
+More information can be found on the BUILDS wiki: http://builds.cc/wiki/index.php?title=Open_7400_Drum_Machine
+
 # Overview
 
 This is a basic 4 stage, 4 tone, drum machine built from 7400 Logic ICs and other discrete components and ICs for Dangerous Prototypes Open 7400 Competition (http://www.7400contest.com). I started brainstorming and designing the project on October 7, 2011 and submitted the project on October 20, 2011.
