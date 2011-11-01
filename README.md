@@ -1,7 +1,8 @@
 # Open 7400 Drum Machine - Version 1 Tilde
 
-Christopher Woodall <chris.j.woodall at gmail.com>
-MIT License
+2011 (c) Christopher Woodall <chris.j.woodall at gmail.com>
+
+CERN OHL License v.1.1 and Later
 
 More information can be found on the BUILDS wiki: http://builds.cc/wiki/index.php?title=Open_7400_Drum_Machine
 
@@ -75,14 +76,6 @@ Currently done and ready for submission, but I need better noises and more piezo
 Other problems:
 * Noise in the Vcc and Ground lines causing jumping bits in my d-flip-flop array which stores state for the pushbuttons and allow them to toggle. All attempts thus far have failed at removing this side effect.
 * Better tempo adjustment and user interfacing.
-
-# Licensing and Credits
-
-This project is henceforth under the MIT License! Feel free to do as you wish with it.
-
-Created by Christopher Woodall
-
-Thanks to Dan Gastler, Valerie Young and Eric Hazen for help, parts and support.
 
 # Sources
 
